@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://aporia-zero.io">
-    <img alt="Aporia" src="![3](https://github.com/user-attachments/assets/1fd3c527-c814-4187-bf94-9ff136527bcf)" width="250" />
-  </a>
-</p>
+<div align="center">
+![Aporia Zero Logo](https://github.com/user-attachments/assets/1fd3c527-c814-4187-bf94-9ff136527bcf | width=250)
+</div>
 
 > [!IMPORTANT]
 > `main` is the development branch.
