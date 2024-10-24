@@ -1,0 +1,10 @@
+/Users/dante/Desktop/reacthreejs/aporia-network/core/target/debug/deps/libark_relations-728a8914047b3507.rmeta: /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/lib.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/mod.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/impl_lc.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/constraint_system.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/error.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/trace.rs
+
+/Users/dante/Desktop/reacthreejs/aporia-network/core/target/debug/deps/ark_relations-728a8914047b3507.d: /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/lib.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/mod.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/impl_lc.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/constraint_system.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/error.rs /Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/trace.rs
+
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/lib.rs:
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/mod.rs:
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/impl_lc.rs:
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/constraint_system.rs:
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/error.rs:
+/Users/dante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-relations-0.4.0/src/r1cs/trace.rs:
